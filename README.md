@@ -1,2 +1,2 @@
 # vehicles_env
-En este Github se pondran a prueba los conocimientos adquiridos en el Sprint7 donde veremos las herramientas de desarrollo de software que hemos aprendido
+En este Github se pondran a prueba los conocimientos adquiridos en el Sprint7 donde veremos las herramientas de desarrollo de software que hemos aprendido. De igual forma, se desarrollo una página web con el formato app.py, en ella podremos encontrar un encabezado que hace referencia al archivo con el cual trabajaremos sobre vehiculos y 2 botones para crear graficos con información sobre la venta de lso vehiculos. En el primero se creara un histograma y en el segundo un grafico de dispersión.
